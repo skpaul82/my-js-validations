@@ -1,6 +1,7 @@
 /**
- * JavaScript/jQuery validations that I uses for my projects
- * @author skpaul <me@skpaul.me>
+ * JavaScript/jQuery form validations that I uses for my projects
+ * @author skpaul <me@skpaul.me> 
+ * #skpaul82, #js_validation, #form_validation
  */
 
 /**
